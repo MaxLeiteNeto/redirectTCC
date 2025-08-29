@@ -32,7 +32,8 @@ body
     display: block;
     width: 100%;
 	max-width: 69vh;
-    margin: 0 auto;}
+    margin: 0 auto;
+}
 
 .pictogramas
 {
@@ -92,6 +93,7 @@ button:hover
     background-color: black;
     color: #9e0000;
 }
+
 
 
 
